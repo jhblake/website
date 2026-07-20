@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = 'hello@jhblakeconsulting.com'
+const CONTACT_EMAIL = 'joe@jhblake.com'
 
 export default function Contact() {
   return (
