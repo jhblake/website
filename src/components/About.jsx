@@ -12,7 +12,7 @@ export default function About() {
           <p className="eyebrow">About Us</p>
           <h2>Independent advice, built around your outcomes</h2>
           <p>
-            JH Blake Consulting works alongside leadership teams to bring structure to hard
+            JH Blake Consulting works alongside project leadership teams to bring structure to hard
             decisions — from strategy and operations to growth planning. We keep engagements
             focused, practical, and grounded in what actually moves the business forward.
           </p>
