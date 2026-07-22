@@ -7,7 +7,7 @@ export default function Hero() {
         <Logo size="lg" />
         <p className="hero__tagline">Clear thinking. Considered strategy. Measurable results.</p>
         <p className="hero__subtext">
-          JH Blake Consulting partners with ambitious organizations to solve complex problems
+          JH Blake Consulting partners with project teams to solve complex problems
           and build lasting value.
         </p>
         <div className="hero__actions">
