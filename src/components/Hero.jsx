@@ -5,7 +5,7 @@ export default function Hero() {
     <section id="home" className="hero">
       <div className="container hero__inner">
         <Logo size="lg" />
-        <p className="hero__tagline">Clear thinking. Considered strategy. Measurable results.</p>
+        <p className="hero__tagline">Project Porfolio Solutions for today's challenges.</p>
         <p className="hero__subtext">
           JH Blake Consulting works with project teams to solve complex problems
           and build lasting value.

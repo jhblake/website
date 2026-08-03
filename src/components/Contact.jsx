@@ -10,7 +10,7 @@ export default function Contact() {
           Tell us a bit about what you're working on and we'll follow up to schedule an
           introductory call.
         </p>
-        <!--
+        <p><!--
     PeoplePerHour Profile Widget
     The div#pph-hire me is the element
     where the iframe will be inserted.
@@ -26,7 +26,8 @@ export default function Contact() {
     js.src = (useSSL ? 'https:' : 'http:') +  '//www.peopleperhour.com/hire/2430130562/13508338.js?width=245&height=320&orientation=vertical&theme=light&rnd='+parseInt(Math.random()*10000, 10);
     try { where.parentNode.insertBefore(js, where); } catch (e) { if (typeof console !== 'undefined' && console.log && e.stack) { console.log(e.stack); } }
 }(document, 'script'));
-</script>
+</script></p>
+        
         <a className="button button--primary" href={`mailto:${CONTACT_EMAIL}`}>
           {CONTACT_EMAIL}
         </a>
