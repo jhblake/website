@@ -10,7 +10,7 @@ export default function About() {
       <div className="container about__inner">
         <div className="about__copy">
           <p className="eyebrow">About Us</p>
-          <h2>Independent advice, built around your outcomes</h2>
+          <h2>Independent practical advice, built around your outcomes</h2>
           <p>
             JH Blake Consulting works alongside project leadership teams to bring structure to hard
             decisions — from strategy and operations to growth planning. We keep engagements
