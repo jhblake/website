@@ -10,7 +10,7 @@ export default function About() {
       <div className="container about__inner">
         <div className="about__copy">
           <p className="eyebrow">About Us</p>
-          <h2>Expert Microsoft PPM Solutions For Better Outcomes</h2>
+          <h2>Expert Microsoft Project Portfolio Solutions For Better Outcomes</h2>
           <p>
             I help organizations turn complex project portfolios into clear, actionable insight. 
             With more than 20 years of experience in enterprise project portfolio management, 
