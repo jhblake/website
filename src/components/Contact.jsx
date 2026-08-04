@@ -31,6 +31,7 @@ export default function Contact() {
         <a className="button button--primary" href={`mailto:${CONTACT_EMAIL}`}>
           {CONTACT_EMAIL}
         </a>
+        <br></br>
         <div id="pph-hireme" ref={widgetRef}></div>
       </div>
     </section>
