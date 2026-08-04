@@ -1,23 +1,23 @@
 const SERVICES = [
   {
-    title: 'Strategic Advisory',
+    title: 'Project Consulting',
     description:
-      'Clarity on where to compete and how to win — grounded in your market, your data, and your constraints.',
+      'Project Management process review and recommendations in Agile or Predictive environments.',
   },
   {
-    title: 'Business Planning',
+    title: 'Project Portfolio Tool Implementation',
     description:
-      'Actionable plans that connect long-term vision to near-term execution, with accountability built in.',
+      'Upgrade your current project portfolio tools to more modern user driven tools.',
   },
   {
-    title: 'Operations & Growth',
+    title: 'Project Portfolio Strategy & Governance',
     description:
-      'Practical improvements to process, structure, and performance that compound over time.',
+      'Practical improvements to strategic project processes, structure, and performance that compound over time.',
   },
   {
-    title: 'Risk & Governance',
+    title: 'Project Scheduling ',
     description:
-      'Frameworks that help leadership teams make sound decisions with confidence, not guesswork.',
+      'Senior Microsoft Project scheduling consultant.',
   },
 ]
 
