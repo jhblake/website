@@ -14,7 +14,7 @@ export default function Contact() {
     script.type = 'text/javascript'
     script.src =
       (useSSL ? 'https:' : 'http:') +
-      '//www.peopleperhour.com/hire/2430130562/13508338.js?width=245&height=320&orientation=vertical&theme=light&rnd=' +
+      '//www.peopleperhour.com/hire/2430130562/13508338.js?width=245&height=320&orientation=vertical&theme=dark&rnd=' +
       parseInt(Math.random() * 10000, 10)
     widgetRef.current.appendChild(script)
   }, [])
