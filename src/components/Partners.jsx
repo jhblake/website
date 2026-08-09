@@ -3,6 +3,8 @@ const PARTNERS = [
     title: 'Apps4Rent - Project Server SE Hosting',
     description:
       'Host your Project Server SE environment with Apps4Rent. ',
+    link: 'https://www.apps4rent.com/microsoft-project-server-hosting/',
+    logo: '/Images/Apps4RentLogo.png',
   },
   {
     title: 'Microsoft Partner',
@@ -30,6 +32,11 @@ export default function Partners() {
         <div className="services__grid">
           {PARTNERS.map((partner) => (
             <div key={partner.title} className="service-card">
+              {partner.logo && (
+                <a href={partner.link} target="_blank" rel="noopener noreferrer">
+                  <img src={partner.logo} alt={`${partner.title} Logo`} className="service-card__logo" />
+                </a>
+              )}
               <h3>{partner.title}</h3>
               <p>{partner.description}</p>
             </div>
