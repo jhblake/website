@@ -1,23 +1,23 @@
 const PARTNERS = [
   {
-    title: 'Project Consulting',
+    title: 'Apps4Rent - Project Server SE Hosting',
     description:
-      'Project Management process review and recommendations in Agile or Predictive environments.',
+      'Host your Project Server SE environment with Apps4Rent. ',
   },
   {
-    title: 'Project Portfolio Tool Implementation',
+    title: 'Microsoft Partner',
     description:
-      'Upgrade your current project portfolio tools to more modern user driven tools.',
+      'Microsoft Certified Partner with expertise in Project Server solutions.',
   },
   {
-    title: 'Project Portfolio Strategy & Governance',
+    title: 'Project Management Institue (PMI)',
     description:
-      'Practical improvements to strategic project processes, structure, and performance that compound over time.',
+      'Certified Project Management Professional.',
   },
   {
-    title: 'Project Scheduling ',
+    title: 'MPUG (Microsoft Project User Group)',
     description:
-      'Senior Microsoft Project scheduling consultant.',
+      'MPUG is a global community of project managers and Microsoft Project users.',
   },
 ]
 
