@@ -1,9 +1,10 @@
 const ARTICLES = [
   {
-    title: 'Test Article One',
+    title: 'Still Need Microsoft Project Desktop? Here's How I Run Project Server Without Managing the Infrastructure',
     date: 'August 2026',
     excerpt:
-      'This is a placeholder article used to preview the layout of the Articles section before real content is added.',
+      'It's been a few years since I last worked with Microsoft Project Server, but my return wasn't driven by nostalgia or a missing feature. The reason was much simpler: 
+      I STILL NEED MICROSOFT PROJECT DESKTOP',
   },
   {
     title: 'Test Article Two',
