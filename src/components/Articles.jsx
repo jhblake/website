@@ -6,10 +6,10 @@ const ARTICLES = [
       'It\'s been a few years since I last worked with Microsoft Project Server, but my return wasn\'t driven by nostalgia or a missing feature.',
   },
   {
-    title: 'Test Article Two',
+    title: 'Microsoft Planner Premium',
     date: 'August 2026',
     excerpt:
-      'A second placeholder article, showing how multiple entries line up in the Articles grid.',
+      ',
   },
 ]
 
