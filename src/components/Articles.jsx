@@ -9,7 +9,7 @@ const ARTICLES = [
     title: 'Microsoft Planner Premium',
     date: 'August 2026',
     excerpt:
-      ',
+      'Microsoft Planner Premium offers enhanced features for project management and collaboration.',
   },
 ]
 
