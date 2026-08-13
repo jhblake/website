@@ -4,7 +4,7 @@ const ARTICLES = [
     date: 'August 2026',
     excerpt:
       'It's been a few years since I last worked with Microsoft Project Server, but my return wasn't driven by nostalgia or a missing feature. The reason was much simpler: 
-      I STILL NEED MICROSOFT PROJECT DESKTOP',
+      I STILL  NEED MICROSOFT PROJECT DESKTOP',
   },
   {
     title: 'Test Article Two',
