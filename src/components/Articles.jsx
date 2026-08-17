@@ -12,6 +12,16 @@ export default function Articles() {
               <p className="article-card__date">{article.date}</p>
               <h3>{article.title}</h3>
               <p>{article.excerpt}</p>
+              {article.embedUrl && (
+                <iframe
+                  src={article.embedUrl}
+                  height="590"
+                  width="504"
+                  frameBorder="0"
+                  allowFullScreen
+                  title="Embedded post"
+                />
+              )}
             </article>
           ))}
         </div>

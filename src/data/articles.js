@@ -7,6 +7,8 @@ const ARTICLES = [
     date: 'August 2026',
     excerpt:
       "It's been a few years since I last worked with Microsoft Project Server, but my return wasn't driven by nostalgia or a missing feature.",
+    embedUrl:
+      'https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7495093777355767808?collapsed=1',
   },
   {
     title: 'Microsoft Planner Premium',
